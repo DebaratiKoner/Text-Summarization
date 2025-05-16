@@ -1,0 +1,7 @@
+transformers
+torch
+streamlit
+sumy
+bert-extractive-summarizer
+scikit-learn
+nltk
